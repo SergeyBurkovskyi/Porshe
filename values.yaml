@@ -1,0 +1,4 @@
+container:
+  image: sergeyburkovskyi/kipper:latest
+
+replicaCount: 2
